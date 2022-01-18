@@ -13,4 +13,4 @@ email: mauriurraco@gmail.com
 # github_username:  lorem_ipsum
 # gplus_username:  lorem_ipsum
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json', 'src' , 'node_modules','vendor']
